@@ -1,0 +1,19 @@
+,product_id,product_name,gross_price,retail_price,category
+0,1857,Samsung 55-Inch 4K UHD Smart TV,304.29,428.31,TVs
+1,5367,Sony 65-Inch 4K UHD Smart TV,152.32,222.46,TVs
+2,1625,LG 43-Inch Full HD Smart TV,410.17,543.45,TVs
+3,6583,Apple MacBook Air 13-Inch Laptop,859.48,1000.32,Computers
+4,6524,Dell XPS 13 Laptop,582.91,804.81,Computers
+5,3683,HP Pavilion 15-Inch Laptop,51.59,65.75,Computers
+6,2435,Sonos Beam Soundbar,884.7,1106.79,Home Audio
+7,1108,Bose SoundTouch 300 Soundbar,349.69,447.37,Home Audio
+8,1719,Amazon Echo Dot (3rd Gen),138.13,159.8,Smart Home Devices
+9,1347,Google Nest Mini,327.21,416.29,Smart Home Devices
+10,8813,Ring Video Doorbell,302.06,433.5,Smart Home Devices
+11,5998,Nest Hello Video Doorbell,376.29,534.56,Smart Home Devices
+12,4389,Apple iPhone 12,830.21,1125.35,Phones & Tablets
+13,6165,Samsung Galaxy S21,61.92,90.23,Phones & Tablets
+14,9400,Google Pixel 5,462.67,608.6,Phones & Tablets
+15,8964,Apple iPad (8th Gen),544.58,690.42,Phones & Tablets
+16,9356,Samsung Galaxy Tab S7,80.25,112.48,Phones & Tablets
+17,3973,Amazon Fire HD 10 Tablet,739.54,837.93,Phones & Tablets
